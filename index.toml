@@ -370,6 +370,11 @@ hash = "e3dd1c7435781abf530ff89a2ca2311cbd890bcced2634122066ebd575a4521f"
 metafile = true
 
 [[files]]
+file = "mods/thaumcraft-inventory-scanning.pw.toml"
+hash = "2a4f25616f9e5c2f1b84c833c392cc3b6f4fd4797ce30ca3cf8fbbb934c1bdbc"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-return-of-the-ancients.pw.toml"
 hash = "894f3e7e49e6e3ec82342629effef47a43629d427b806ae9ffa0b122f01deb3d"
 metafile = true
