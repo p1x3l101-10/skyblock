@@ -145,11 +145,6 @@ hash = "b68ce842309d1369b6308cac6cba81c586c20bb8badcb84b9aaee2f0c05c89c8"
 metafile = true
 
 [[files]]
-file = "mods/fermiumasm.pw.toml"
-hash = "c27eafc724f6b77054c2cb44e1eab0490de18a623e3c17312b1363bd6af7ccdb"
-metafile = true
-
-[[files]]
 file = "mods/fermiumbooter.pw.toml"
 hash = "1eb8ec104f6a592e8c2be7da9db23dda26d83efe14b3f26b71851596e407927b"
 metafile = true
