@@ -1,0 +1,13 @@
+name = "Thaumic Tinkerer"
+filename = "thaumictinkerer-1.12.2-5.0-620a0c5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kI9C2hMv/versions/1aojamxT/thaumictinkerer-1.12.2-5.0-620a0c5.jar"
+hash-format = "sha512"
+hash = "a03312544152adb13d2ccea97803c4eb2841402b26bd795df71c376fb8a12cf1a5263c594192fcb634f67e0ce26a60501a455df4574865adfa3e22dcd67f85b3"
+
+[update]
+[update.modrinth]
+mod-id = "kI9C2hMv"
+version = "1aojamxT"

@@ -410,6 +410,11 @@ hash = "a30218d03b3135b18194e3af04839dd7f5567653e4e93d45e5739f4e3d3d02ea"
 metafile = true
 
 [[files]]
+file = "mods/thaumic-tinkerer.pw.toml"
+hash = "af5dec528cfc8dd7978fe927bf1df745d1ec2b347d6d4eb59de20386c673b0be"
+metafile = true
+
+[[files]]
 file = "mods/thaumic-tweaker.pw.toml"
 hash = "5f559f6c0cf9267f28383a6655e9568fa25c33c6992a6a8f046464c47fdc4168"
 metafile = true
