@@ -1,0 +1,13 @@
+name = "Parasites Addon : OverLast"
+filename = "OverLast-Lite-1.12.2-0.05(for SRPV1920).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9b8ef4a61707760ab27b892d72fd960806ff715"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5353151
+project-id = 580404

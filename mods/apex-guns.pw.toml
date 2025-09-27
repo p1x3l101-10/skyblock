@@ -1,0 +1,13 @@
+name = "Apex Guns"
+filename = "ApexGunAddon-1.12.2-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bae10bfbf267f96a32c34ff3128a1508034fc52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3912584
+project-id = 654129

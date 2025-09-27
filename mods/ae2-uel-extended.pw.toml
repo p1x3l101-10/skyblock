@@ -1,0 +1,13 @@
+name = "AE2 UEL: Extended"
+filename = "ae2-uel-extended-v0.55.30-0.4-rv6-stable-7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BPOzR8WC/versions/FJASTJA5/ae2-uel-extended-v0.55.30-0.4-rv6-stable-7.jar"
+hash-format = "sha512"
+hash = "bb965445ad9b14962037b1325fa3f09aae2cb85baaa9de04b817eacc14570c6a2d0453ab0baf429338a2204a030f93c46462101f9ab222fc362f2958b508bee8"
+
+[update]
+[update.modrinth]
+mod-id = "BPOzR8WC"
+version = "FJASTJA5"

@@ -1,0 +1,13 @@
+name = "Deep Mob Evolution"
+filename = "DeepMobEvolution-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EJLfl54U/versions/3Ux4eyaB/DeepMobEvolution-1.1.1.jar"
+hash-format = "sha512"
+hash = "d4718c7f83b6e4339e72bdddcbb9f2203a6f2df719e633d3b80330e729ff8dfc82be9d93b7655e4f111a25bd5f0ec0e8079bbc0e40c85452c6e0ea07fe93b771"
+
+[update]
+[update.modrinth]
+mod-id = "EJLfl54U"
+version = "3Ux4eyaB"

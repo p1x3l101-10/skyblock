@@ -1,0 +1,13 @@
+name = "Hourai Elixir"
+filename = "hourai-elixir-1.0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "faee63018f76d0b6b8703cd9c1e72db3edb07351"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2854026
+project-id = 340167

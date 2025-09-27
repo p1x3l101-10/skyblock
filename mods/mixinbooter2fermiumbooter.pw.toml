@@ -1,0 +1,13 @@
+name = "MixinBooter2FermiumBooter"
+filename = "!mixinbooter-10.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c8e073cdcca9b5a523cfe4967f08a697065dc16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6775695
+project-id = 1269321

@@ -1,0 +1,13 @@
+name = "ThaumPotion Tweaker"
+filename = "ThaumPotion Tweaker-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8578b2753ab633a65f030f6d2ceda52b30d2ea8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6814005
+project-id = 1311256

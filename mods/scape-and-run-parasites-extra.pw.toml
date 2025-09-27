@@ -1,0 +1,13 @@
+name = "Scape and Run: Parasites Extra"
+filename = "SRPExtra-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8uMBjrsG/versions/Aq5jjiPD/SRPExtra-0.6.1.jar"
+hash-format = "sha512"
+hash = "c025092afeda84c3e0270e2a2f4d9d8b0a29f3957215cb6d6a1e2b84b7cd480fd166394474d7a8fed6b9ad7f7dde9f5ad262f32c5e15bd75da39122ad304ea34"
+
+[update]
+[update.modrinth]
+mod-id = "8uMBjrsG"
+version = "Aq5jjiPD"

@@ -1,0 +1,13 @@
+name = "Lootr"
+filename = "lootr-1.12.2-0.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/fTrJqmfv/lootr-1.12.2-0.6.2.jar"
+hash-format = "sha512"
+hash = "cf15857809c317c3c1683b6fa7c3528f490ea9bb9b9b1eb225d199c1fc254e8c36b376e4968d86ddaf14632c02c789bf32ed57841e77381d74a8d120d1614f91"
+
+[update]
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "fTrJqmfv"

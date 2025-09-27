@@ -1,0 +1,13 @@
+name = "Rather Enough Immersive Multiblocks"
+filename = "reim-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b966d11844eaa25b38c7effe2a694e057df0514e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6745649
+project-id = 1073925

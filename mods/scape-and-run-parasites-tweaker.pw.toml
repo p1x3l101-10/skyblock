@@ -1,0 +1,13 @@
+name = "Scape and Run Tweaker"
+filename = "srptweaks-V2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "683b236dc07a93a2f94a39790972e69f7f08ade3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6197805
+project-id = 991195

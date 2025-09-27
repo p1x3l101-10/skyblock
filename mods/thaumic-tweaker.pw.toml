@@ -1,0 +1,13 @@
+name = "Thaumic Tweaker"
+filename = "ThaumicTweaker-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "919bf22986ccc1746d24bb1dac167e8770d1d5ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5089749
+project-id = 916078

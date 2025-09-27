@@ -1,0 +1,13 @@
+name = "Dynamic Stealth"
+filename = "DynamicStealth-1.12.2.120.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfbd029764ec04150eb029124f5475960e185b26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6525325
+project-id = 309344
