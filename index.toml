@@ -621,10 +621,6 @@ file = "config/tconstruct.cfg"
 hash = "0ac4c5ddd8f46cc6299220b5d22098374bd10553c081d9dc929581004cba43ec"
 
 [[files]]
-file = "config/tconstruct_oredictcache.dat"
-hash = "783a69e9581d9c7d6b2330ba61138dc400ce06b3913ec363849a23a73782f151"
-
-[[files]]
 file = "config/thaumadditions.cfg"
 hash = "b5123676350d05a91e7a0e4fd64a6a4000fec7db849c8c40a96f0f37a09a0919"
 
