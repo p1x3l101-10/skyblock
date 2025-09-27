@@ -700,6 +700,11 @@ hash = "4ec68eadacaf193c9def6093cb8434c9aeee88af0b3889882763a407616bee34"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas.pw.toml"
 hash = "6303fa1a2c9ba98acd32a225211819339dfb0263332ff15f13268b77a6a9cabb"
 metafile = true
@@ -725,6 +730,11 @@ hash = "9c7d4422ca6f05a78f2b272a5100c5e44b913e9894da870d525fbfa9bd0c0ca2"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -747,6 +757,16 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c0bb2153f74e8665ab4b529739ae1076a59baebac238a72f27e04d88374f7306"
+metafile = true
+
+[[files]]
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
 
 [[files]]
@@ -822,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "b68ce842309d1369b6308cac6cba81c586c20bb8badcb84b9aaee2f0c05c89c8"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
 metafile = true
 
 [[files]]
@@ -905,6 +930,11 @@ hash = "b632eb7d3e3c721739b63c6f6c2e3f38d9c53382d687d987a69a0cfabd58fecf"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "0059c1dc7a9dfcf047dbea7f645e0736f2404fa5c59db7e65d7163420bd059c2"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "49cfa6cc9199acf8160d8d4d5c7c0be5f6b5ac2d3e113a7d1f27a91fb237fd9c"
 metafile = true
@@ -950,6 +980,11 @@ hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "b8cd9f1fea026f75f2b3200d3204c24b38d90e25619a920f6b30704fc90b7a34"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "77df002c384e28eeff165d1d71ce5bc2bacb2bd71891116bdad4b2922dc86914"
 metafile = true
@@ -970,8 +1005,23 @@ hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
 metafile = true
 
 [[files]]
+file = "mods/oc-wasm.pw.toml"
+hash = "e4eca2fb72e74d4b7f9b2144aabe574ed4f4cc5cd8b81f9d5f27d7315cca7a3c"
+metafile = true
+
+[[files]]
 file = "mods/oldresearch.pw.toml"
 hash = "480eecf0fd7881d46be6fe2e60a5e0868f7708054858b9f8aeed666c14866f71"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers-drivers-for-tinkers-construct.pw.toml"
+hash = "c94f909d85bf66c65b168fdeb8b0740385a35bdbb7b88ddcb4465effde7ae352"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "8dea8c278137b0f42a815734c4b3a338ad18ea76e2ca08623ad3c332e5127eb5"
 metafile = true
 
 [[files]]
@@ -1035,6 +1085,11 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "1976cfb3222e1f141aa56af5824be673771a9db93b49c7e48fa2cca3f58aef02"
+metafile = true
+
+[[files]]
 file = "mods/thaumcraft-6-enhanced.pw.toml"
 hash = "92abff4401df62a0b99b0700bc2a88a951f124046ccb57500d607730fc02ce2a"
 metafile = true
@@ -1067,6 +1122,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
 hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-computers.pw.toml"
+hash = "ecb913cf712aab3070f60d821edc14f063b0c2af6d7811005f961eaf53f4d1f1"
 metafile = true
 
 [[files]]

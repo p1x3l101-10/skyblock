@@ -1,0 +1,13 @@
+name = "My Server Is Compatible"
+filename = "MyServerIsCompatible-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27c91fe732f42d61d45d6b238fd9283458372411"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3345703
+project-id = 492574
