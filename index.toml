@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "3fb2384b4c42d39a279b1725f727b32366eedca861597772c74f3ea8a7b69957"
+
+[[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
 hash = "4145afc0c59be74776adf2510c17e1c5de982c234a9673791488da5c6e4be974"
 metafile = true

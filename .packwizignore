@@ -1,7 +1,6 @@
 .git
 .gitattributes
 .gitignore
-LICENSE
 LICENSE.template
 README.md
 TODO.md
