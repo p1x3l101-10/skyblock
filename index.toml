@@ -912,6 +912,11 @@ hash = "bf46002ff2d9b657ecd80baa538f01a8067958d9155f190cc409d6237da98d22"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
 metafile = true
