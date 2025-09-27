@@ -385,11 +385,6 @@ hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
 metafile = true
 
 [[files]]
-file = "mods/thaumcraftfix.pw.toml"
-hash = "3f2aca62ab10d79ce4fd7bed4a143a5495545bb8f382fa68cfddec9528c57964"
-metafile = true
-
-[[files]]
 file = "mods/thaumic-additions.pw.toml"
 hash = "56b38aff35c05b1b453e783e01180c0c26790ed7b5dc0ae8d25e734fa888e742"
 metafile = true
