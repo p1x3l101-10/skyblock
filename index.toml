@@ -230,7 +230,7 @@ hash = "306cfbe7cf598fec42c8b7b306931e4df10c9972a0dabece9d930b51b87e57a5"
 
 [[files]]
 file = "config/conarm.cfg"
-hash = "c11584598e134465d55e2297f6a3d0e39ba30817c74a262788a091d1dc0b024f"
+hash = "36c7c7ce4cbe1cb47e341bc08dc22b2deeeb4d5d20eff522bebd3c1ad0c53432"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -482,7 +482,7 @@ hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
-hash = "6db31f45badda300196ac5e67821d9ca736fb2a4688cfaa50d3894095af24c84"
+hash = "df71c140172e8bb004cf36eb2520838f5d00f9e0026c90c2c74cc949aee84cc3"
 
 [[files]]
 file = "config/nuclearcraft.ncpf.json"
@@ -618,7 +618,7 @@ hash = "5ead27a176c47ffab4dd59528e6b65c30e729dce72ab3718b4df19f28be63613"
 
 [[files]]
 file = "config/tconstruct.cfg"
-hash = "0ac4c5ddd8f46cc6299220b5d22098374bd10553c081d9dc929581004cba43ec"
+hash = "687aec84b9c146d184bcdf3ea1845bc5a73427f39e8116130127d813e23348fb"
 
 [[files]]
 file = "config/thaumadditions.cfg"
