@@ -440,11 +440,6 @@ hash = "400d16834638ef90397c43c5a657c9d3c9e6013a4d66b417ae4884ae6bdca939"
 metafile = true
 
 [[files]]
-file = "mods/universal-tweaks.pw.toml"
-hash = "ec6fa924cd52f756a56ad487089f06d42c54eaab650e3ef24c69d9272676bbe0"
-metafile = true
-
-[[files]]
 file = "nilmods/narratorshutup.pw.toml"
 hash = "c2ceb4be4554e0d39e19f5522418c8e8166dee47cd8f3dcca50a54e820cead1a"
 metafile = true
