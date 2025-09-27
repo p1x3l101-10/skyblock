@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/parasites-addon-overlast.pw.toml"
-hash = "b2b38e03ab3d73d254f3342096671df6ee2505842bb5042ff4a4455a38485581"
+hash = "525dfe8cfdc7d08eefa3e09e9797004fda36551805cc08746d7379a7fbed916c"
 metafile = true
 
 [[files]]
