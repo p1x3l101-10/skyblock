@@ -94,9 +94,6 @@ key.conarm.toggle_chest.desc
 key.conarm.toggle_helm.desc
 key.conarm.toggle_leg.desc
 
-key.categories.groovyscript
-key.groovyscript.reload
-
 key.immersiveradialmenu.category
 key.immersiveradialmenu.opentoolbox
 

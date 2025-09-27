@@ -3064,42 +3064,42 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sledge Hammer Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Fletching Pattern
 tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Armor Trim Pattern
 tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Sledge Hammer Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
 tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -4379,78 +4379,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sledge Hammer Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Armor Trim Cast
 tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sledge Hammer Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Polishing Kit Cast
 tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sledge Hammer Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sledge Hammer Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
 tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -9074,11 +9074,14 @@ srparasites:armor_chest_sentient, §6Sentient Chest
 srparasites:armor_pants_sentient, §6Sentient Pants
 srparasites:armor_boots_sentient, §6Sentient Boots
 srparasites:parasiterubble_slabhalf:0, Fortified Bone Slab
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
 pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
 pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
 pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
@@ -9088,14 +9091,6 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -9245,6 +9240,11 @@ pneumaticcraft:flux_compressor, Flux Compressor
 pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, Thermal Compressor
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.kerosene, Kerosene
 portabledrill:portable_drill, Portable Drill
 srpextra:ada_stalker_drop, Stalker Spine
 srparasites:itemmobspawner_infwitch, Spawn Assimilated Witch
@@ -9460,6 +9460,14 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumictinkerer:share_book, Tome of Knowledge Sharing
+thaumictinkerer:black_quartz, Smokey Quartz
+thaumictinkerer:connector, Transvector Binder
+thaumictinkerer:soul_mould, Soul Mould
+thaumictinkerer:energetic_nitor, Energetic Nitor
+thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
+thaumictinkerer:blood_sword, Cursed Spirit's Blade
+thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 thaumictinkerer:funnel, Essentia Funnel
 thaumictinkerer:dissimulation, Dissimulation Block
 thaumictinkerer:transvector_interface, Transvector Interface
@@ -9472,44 +9480,36 @@ thaumictinkerer:enchantment_pillar, Enchanting Pillar
 thaumictinkerer:animation_tablet, Dynamism Tablet
 thaumictinkerer:black_quartz_block, Black Quartz Block
 thaumictinkerer:dummy_nitor, tile.thaumictinkerer:dummy_nitor.name
-thaumictinkerer:share_book, Tome of Knowledge Sharing
-thaumictinkerer:black_quartz, Smokey Quartz
-thaumictinkerer:connector, Transvector Binder
-thaumictinkerer:soul_mould, Soul Mould
-thaumictinkerer:energetic_nitor, Energetic Nitor
-thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
-thaumictinkerer:blood_sword, Cursed Spirit's Blade
-thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
-thaumicwonders:placeholder_adv_alch_construct, Primordial Accretion Chamber
-thaumicwonders:shimmerleaf_crop, Shimmerleaf
-thaumicwonders:portal_generator, Portal Generator
-thaumicwonders:primordial_accelerator_terminus, Primordial Accelerator Terminus
-thaumicwonders:vishroom_crop, Vishroom
-thaumicwonders:primordial_accelerator, Primordial Accelerator
-thaumicwonders:everburning_urn, Everburning Urn
-thaumicwonders:hexamite, Hexamite
-thaumicwonders:flux_capacitor, Flux Capacitor
-thaumicwonders:ore_diviner, Ore Diviner
-thaumicwonders:placeholder_obsidian, Catalyzation Chamber
-thaumicwonders:coalescence_matrix_precursor, Coalescence Matrix
-thaumicwonders:alkahest_vat, Alkahest Vat
-thaumicwonders:inspiration_engine, Inspiration Engine
-thaumicwonders:meaty_orb, Meaty Orb
 thaumicwonders:placeholder_thaumium_block, Primordial Accretion Chamber
-thaumicwonders:cinderpearl_crop, Cinderpearl
-thaumicwonders:void_beacon, Void Beacon
-thaumicwonders:dimensional_ripper, Dimensional Ripper
-thaumicwonders:flux_distiller, Flux Distiller
-thaumicwonders:coalescence_matrix, Coalescence Matrix
-thaumicwonders:catalyzation_chamber, Catalyzation Chamber
-thaumicwonders:placeholder_arcane_stone, Catalyzation Chamber
-thaumicwonders:meteorb, Meteorb
-thaumicwonders:madness_engine, Madness Engine
-thaumicwonders:primordial_accelerator_tunnel, Primordial Accelerator Tunnel
-thaumicwonders:creative_essentia_jar, Creative Essentia Jar
+thaumicwonders:meaty_orb, Meaty Orb
 thaumicwonders:primordial_accretion_chamber, Primordial Accretion Chamber
-thaumicwonders:placeholder_void_metal_block, Primordial Accretion Chamber
+thaumicwonders:vishroom_crop, Vishroom
+thaumicwonders:catalyzation_chamber, Catalyzation Chamber
+thaumicwonders:flux_capacitor, Flux Capacitor
 thaumicwonders:portal_anchor, Portal Anchor
+thaumicwonders:placeholder_arcane_stone, Catalyzation Chamber
+thaumicwonders:dimensional_ripper, Dimensional Ripper
+thaumicwonders:hexamite, Hexamite
+thaumicwonders:ore_diviner, Ore Diviner
+thaumicwonders:creative_essentia_jar, Creative Essentia Jar
+thaumicwonders:inspiration_engine, Inspiration Engine
+thaumicwonders:meteorb, Meteorb
+thaumicwonders:coalescence_matrix, Coalescence Matrix
+thaumicwonders:shimmerleaf_crop, Shimmerleaf
+thaumicwonders:cinderpearl_crop, Cinderpearl
+thaumicwonders:placeholder_void_metal_block, Primordial Accretion Chamber
+thaumicwonders:primordial_accelerator, Primordial Accelerator
+thaumicwonders:placeholder_obsidian, Catalyzation Chamber
+thaumicwonders:primordial_accelerator_tunnel, Primordial Accelerator Tunnel
+thaumicwonders:everburning_urn, Everburning Urn
+thaumicwonders:madness_engine, Madness Engine
+thaumicwonders:coalescence_matrix_precursor, Coalescence Matrix
+thaumicwonders:placeholder_adv_alch_construct, Primordial Accretion Chamber
+thaumicwonders:primordial_accelerator_terminus, Primordial Accelerator Terminus
+thaumicwonders:void_beacon, Void Beacon
+thaumicwonders:flux_distiller, Flux Distiller
+thaumicwonders:alkahest_vat, Alkahest Vat
+thaumicwonders:portal_generator, Portal Generator
 thaumicwonders:disjunction_cloth, Disjunction Cloth
 thaumicwonders:primal_destroyer, Primal Destroyer
 thaumicwonders:flying_carpet, Flying Carpet
@@ -10047,8 +10047,8 @@ immersiveintelligence:mechanical_device1:0, Mechanical Pump
 immersiveintelligence:gearbox:0, Wooden Gearbox
 immersiveintelligence:mechanical_connector:0, Iron Wheel
 immersiveintelligence:mechanical_connector:1, Steel Wheel
-oldresearch:researchnote:0, Research Note
 oldresearch:research_table_old, Research Table
+oldresearch:researchnote:0, Research Note
 patchouli:guide_book, Guide Book
 dynamicstealth:handmirror, Hand Mirror
 ichunutil:compact_porkchop, Compact Raw Porkchop
@@ -10056,25 +10056,25 @@ generallaymansaestheticspyingscreen:block_glass:1, GLASS Projector
 generallaymansaestheticspyingscreen:block_glass:2, GLASS Wireless Extension
 generallaymansaestheticspyingscreen:block_glass:0, GLASS Extension
 generallaymansaestheticspyingscreen:block_glass_terminal, GLASS Terminal
-immersivemagneticraft:multiblock_parts:0, Pressure Head Engineering Block
-immersivemagneticraft:multiblock_parts:1, Mesh Engineering Block
-immersivemagneticraft:multiblock_parts:2, Caution Engineering Block
-immersivemagneticraft:multiblock_parts:3, Exhaust Engineering Block
-immersivemagneticraft:air_bubble:0, Air Bubble
-immersivemagneticraft:airlock:0, Bubble Dome Pressurizer
-immersivemagneticraft:electric_engine:0, LV Alternator
+immersivemagneticraft:crushing_table:0, Crushing Table
+immersivemagneticraft:sluice_box:0, Sluice Box
 immersivemagneticraft:shelving_unit:0, Shelving Unit
 immersivemagneticraft:steam_engine:0, Steam Engine
 immersivemagneticraft:sieve:0, Sieve
 immersivemagneticraft:hydraulic_press:0, Precision Hydraulic Press
 immersivemagneticraft:big_combustion_chamber:0, Large Solid Fuel Firebox
 immersivemagneticraft:big_steam_boiler:0, Large Solid Fuel Boiler
-immersivemagneticraft:inserter:0, Inserter
-immersivemagneticraft:feeding_trough:0, Wooden Feeding Trough
+immersivemagneticraft:multiblock_parts:0, Pressure Head Engineering Block
+immersivemagneticraft:multiblock_parts:1, Mesh Engineering Block
+immersivemagneticraft:multiblock_parts:2, Caution Engineering Block
+immersivemagneticraft:multiblock_parts:3, Exhaust Engineering Block
 immersivemagneticraft:combustion_chamber:0, Solid Fuel Firebox
 immersivemagneticraft:steam_boiler:0, Solid Fuel Boiler
-immersivemagneticraft:crushing_table:0, Crushing Table
-immersivemagneticraft:sluice_box:0, Sluice Box
+immersivemagneticraft:air_bubble:0, Air Bubble
+immersivemagneticraft:airlock:0, Bubble Dome Pressurizer
+immersivemagneticraft:electric_engine:0, LV Alternator
+immersivemagneticraft:inserter:0, Inserter
+immersivemagneticraft:feeding_trough:0, Wooden Feeding Trough
 srpmeshi:roasted_buglin, Roasted Buglin
 srpmeshi:raw_buglin, Raw Buglin
 srpmeshi:rupter_ramen, Rupter Ramen
