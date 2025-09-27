@@ -256,11 +256,6 @@ hash = "c6894c7391b8f50ce5d6792fe1b1a9e361b98198c5453b2b3bcb383ff16a0378"
 metafile = true
 
 [[files]]
-file = "mods/mixin-booter.pw.toml"
-hash = "df027ff53db0184b3a0e3d169fbf653ae1da77513baff72d854532ec71bce06c"
-metafile = true
-
-[[files]]
 file = "mods/mixinbooter2fermiumbooter.pw.toml"
 hash = "a976d7661060f1da8792e0a2d459e37068fb3385022f8aa1fef0d640409eccf2"
 metafile = true
@@ -426,11 +421,6 @@ hash = "d2ea631f738d6cd7423210f2d34c4157149d358a15b763f054f53c25cfb91284"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-construct.pw.toml"
-hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
-metafile = true
-
-[[files]]
 file = "mods/tweakers-construct.pw.toml"
 hash = "400d16834638ef90397c43c5a657c9d3c9e6013a4d66b417ae4884ae6bdca939"
 metafile = true
@@ -442,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "4c9d78e944c4bb1ab456d77f840dc629d76d44c7ad41efd7cd89473b7214a718"
+hash = "6349b9368c4a703fa3f664bb5ef10ec7c2cbebe8e8e8f20fb574760d0c4a4139"
 
 [[files]]
 file = "unsup.toml"
