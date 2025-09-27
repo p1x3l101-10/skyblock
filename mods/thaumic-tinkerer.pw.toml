@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kI9C2hMv/versions/1aojamxT/thaumictinkerer-1.12.2-5.0-620a0c5.jar"
-hash-format = "sha512"
-hash = "a03312544152adb13d2ccea97803c4eb2841402b26bd795df71c376fb8a12cf1a5263c594192fcb634f67e0ce26a60501a455df4574865adfa3e22dcd67f85b3"
+hash-format = "sha256"
+hash = "c0d7f101d48df20753aca7eb2df4a70cf26fc432036f56740547a162da06d628"
 
 [update]
 [update.modrinth]

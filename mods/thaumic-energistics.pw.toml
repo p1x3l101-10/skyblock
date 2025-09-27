@@ -3,8 +3,8 @@ filename = "thaumicenergistics-2.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "03fe2f61a48e43b0eac4311671a0cec34d6ed90b"
+hash-format = "sha256"
+hash = "5957156e1eaf0af65363e4887ccb0655dad8835a5fed1d586fd4364cf31609b7"
 mode = "metadata:curseforge"
 
 [update]

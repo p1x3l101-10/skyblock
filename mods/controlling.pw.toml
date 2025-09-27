@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/xv94TkTM/versions/buGCYKY1/Controlling-3.0.12.2.jar"
-hash-format = "sha512"
-hash = "30d9457b718e40f8b196f8ed91c416f7491755ce5b8ee038bef607ca1b8b37a3f3dcba362b03cc03de241f76321b24c75b04932c800acfd59234d632d6c2e897"
+hash-format = "sha256"
+hash = "0f8c848d0e715142cb9e8af9a9b5cf369c89ab4bda784c200538083e556ef3a6"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "nuclearcraft-1.12.2-2o.9.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9ac730b20fd502bf2d2e966b2100fa334930e069"
+hash-format = "sha256"
+hash = "d21fe5d345edbe519778fcc44916f6a7a060210a3dbb110d59375a3a80e5b4d8"
 mode = "metadata:curseforge"
 
 [update]

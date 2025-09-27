@@ -3,8 +3,8 @@ filename = "MyServerIsCompatible-1.12.2-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "27c91fe732f42d61d45d6b238fd9283458372411"
+hash-format = "sha256"
+hash = "04377503fa802b491ea32831a66b5c8ce1178f9a653480ed147452c196177988"
 mode = "metadata:curseforge"
 
 [update]

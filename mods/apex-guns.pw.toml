@@ -3,8 +3,8 @@ filename = "ApexGunAddon-1.12.2-0.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0bae10bfbf267f96a32c34ff3128a1508034fc52"
+hash-format = "sha256"
+hash = "c567af325937d3a0af5a8269af4702e20731119c10eac328865cbc6c1c242c4f"
 mode = "metadata:curseforge"
 
 [update]

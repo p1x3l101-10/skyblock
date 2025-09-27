@@ -3,8 +3,8 @@ filename = "iChunUtil-1.12.2-7.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b53b0f9543c98adb0b89caa4da954a477259367"
+hash-format = "sha256"
+hash = "e0b90727cbe54a11fe568f3d60cd59d64ff3c14f82437e1d1c10b575886ab8a3"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "tweakersconstruct-1.12.2-1.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "df4e52aa07486b23780102b4ff34df67ce76a2f8"
+hash-format = "sha256"
+hash = "852c74c4693ae78bc2343444358ec73042314ff1d5fb6926740f1e203bdd1548"
 mode = "metadata:curseforge"
 
 [update]

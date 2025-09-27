@@ -3,8 +3,8 @@ filename = "FermiumMixins-1.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "367caf1b924ac7397d82ab6006a540cbbcb86384"
+hash-format = "sha256"
+hash = "e844f5893fc25336f0a84f9a94c310dd664a165ce26d1e131d07ce38d924fa7e"
 mode = "metadata:curseforge"
 
 [update]

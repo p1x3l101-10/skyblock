@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EM9fahS3/versions/2NQHu8oL/Guide-API-1.12-2.1.8-63.jar"
-hash-format = "sha512"
-hash = "0c15cbb6656bdb6cbb3c086f7a09acfa4c33b3d6354f2a798e0f082ccf522b39d123d096e129816c4f2d5a4205507ba9088eb54b9fb7c6c7e3c9ce332fcbaf40"
+hash-format = "sha256"
+hash = "e201712ef8fadc6c4b6380939751e92fe32cad2ba2dcb717e1acb3b07e0c2125"
 
 [update]
 [update.modrinth]

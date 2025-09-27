@@ -3,8 +3,8 @@ filename = "TinkersAntique-1.12.2-2.13.0.202.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "23a33a610cfc4b6de523f3e0ba72eac9f8a9f1b3"
+hash-format = "sha256"
+hash = "07fdb9bfafec01448686875bf491c1aa954caa69ab0e0701a5ccb57144fa8ba6"
 mode = "metadata:curseforge"
 
 [update]

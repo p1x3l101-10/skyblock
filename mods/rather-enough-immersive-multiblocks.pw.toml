@@ -3,8 +3,8 @@ filename = "reim-0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b966d11844eaa25b38c7effe2a694e057df0514e"
+hash-format = "sha256"
+hash = "f04689c05e8d268e79c632213979f0855911f5808e1177728c7a0f07d045470d"
 mode = "metadata:curseforge"
 
 [update]

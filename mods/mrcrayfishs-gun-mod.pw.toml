@@ -3,8 +3,8 @@ filename = "guns-0.15.3-1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0b52ae06c251073ef046e9528ccb1ccfb3168e68"
+hash-format = "sha256"
+hash = "62325d26dfb2d7c2e4dfdd5f5609fb51a4f7222b35a22b9b6e42a950b9c92d80"
 mode = "metadata:curseforge"
 
 [update]

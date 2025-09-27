@@ -3,8 +3,8 @@ filename = "srptweaks-V2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "683b236dc07a93a2f94a39790972e69f7f08ade3"
+hash-format = "sha256"
+hash = "e45355f38eb773d181aa374876229e0c596d590d4620ab7bda404eff0d4a6eb3"
 mode = "metadata:curseforge"
 
 [update]

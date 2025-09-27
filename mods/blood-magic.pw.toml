@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PbNc6qBY/versions/GtMIuGOR/BloodMagic-1.12.2-2.4.3-105.jar"
-hash-format = "sha512"
-hash = "64e8439ce33fa654ba8c20027afea16e00df26459dfa5530df74359c2faa73a6d088d243b9e4b687fb952f0c9380f164b7655209a42f1331bd901877a5f6555b"
+hash-format = "sha256"
+hash = "ef187aea109446bdb7b35e06958d4c6d22f5f7ceb4e5bcaeab16f3ad29fe16a5"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "OverLast-1.12.2-0.2.9B9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc1ba764a5144545b21d0a39b466247301b738df"
+hash-format = "sha256"
+hash = "2c8b0e1eaa1a8fb932922987079d651a938468cfdbaaaf01167e2256996dbc0f"
 mode = "metadata:curseforge"
 
 [update]

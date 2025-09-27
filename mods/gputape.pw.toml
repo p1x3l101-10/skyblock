@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5CTSrY8X/versions/Kml7i540/GPUTape-1.12.2-1.0.4.jar"
-hash-format = "sha512"
-hash = "86a38c2ae073f9cd07901e2dd80654640b8e808bd59b42e14a1b77bf2365e65a66eb21013ab81913cae8c75ea8b34c3b41edac59f10068ac0ed2bde5195fdbed"
+hash-format = "sha256"
+hash = "cfd43d4c56e23321e1f20361e7cc8ce5dbcfdf6f0d250308676bba7e687ab16c"
 
 [update]
 [update.modrinth]

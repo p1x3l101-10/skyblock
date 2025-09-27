@@ -3,8 +3,8 @@ filename = "hourai-elixir-1.0.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "faee63018f76d0b6b8703cd9c1e72db3edb07351"
+hash-format = "sha256"
+hash = "1b132005ecf2f935028fca71f62ff69b3cc4a37d16552fc09b965d92d226fc3f"
 mode = "metadata:curseforge"
 
 [update]

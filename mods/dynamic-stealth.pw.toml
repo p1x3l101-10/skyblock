@@ -3,8 +3,8 @@ filename = "DynamicStealth-1.12.2.120.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dfbd029764ec04150eb029124f5475960e185b26"
+hash-format = "sha256"
+hash = "c54083ebf5330363ca210f7c5c8c939a5eb13df67ddc578f18d5c2ecc30e3f6e"
 mode = "metadata:curseforge"
 
 [update]

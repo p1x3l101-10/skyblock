@@ -3,8 +3,8 @@ filename = "PlayerRevive_v1.2.40_mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1a71c772ce996d0a7dcad0497260de98f5cd757f"
+hash-format = "sha256"
+hash = "26cfdd8e7e14209279aa464efe271c9a89e0a3b3e47a7b692a8db569eb73ff89"
 mode = "metadata:curseforge"
 
 [update]

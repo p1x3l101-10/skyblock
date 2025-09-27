@@ -3,8 +3,8 @@ filename = "CreativeCore_v1.10.71_mc1.12.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c60a20ae9c9431a3b215a331c2b2af7fa3a060c"
+hash-format = "sha256"
+hash = "b0ef34ec816fa91451f8d4b62c016c159ab3559d6f75870790d1215943f009d5"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uzPypHse/versions/HmpB2B3r/srpmeshi-1.6.jar"
-hash-format = "sha512"
-hash = "9a61ef9d17abb4f9c43d6855b9ef4c26611ca8d508c044fb5769db40373574e83db1060380166a1307519498cb067e885b20ed865af049ce580d8c351d37df14"
+hash-format = "sha256"
+hash = "8e606c7b5b47a846db27d9d14f178ebdf45831793dbfc82d6418767786ec01fd"
 
 [update]
 [update.modrinth]

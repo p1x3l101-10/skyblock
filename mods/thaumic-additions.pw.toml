@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Fi4BbtaL/versions/MioQD5tg/ThaumicAdditions-1.12.2-12.7.9.jar"
-hash-format = "sha512"
-hash = "c7bd5d1facaa2d463a006ff367d390d165ba4bc5160ff424911aebcbc7739948e56b15b482c41a1ae2fb8c44745c1cb08a5d04ece0beb72959e822820ea8fd09"
+hash-format = "sha256"
+hash = "6d708eab04e3f356a65f6255d287f5c136e5f3fd9b9bd04d4f752514234a8ddd"
 
 [update]
 [update.modrinth]

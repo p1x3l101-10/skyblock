@@ -3,8 +3,8 @@ filename = "exnihilocreatio-1.12.2-0.4.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2f0bc9e41db5e832857217056bec8e8621853e55"
+hash-format = "sha256"
+hash = "5b60df51d7d83e495af8d063fd0328b09cc78db87d4e53ba8fc828e869975a27"
 mode = "metadata:curseforge"
 
 [update]

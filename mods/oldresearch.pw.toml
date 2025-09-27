@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5VYBtcPj/versions/g1JLm1Wk/oldresearch-1.1.4.jar"
-hash-format = "sha512"
-hash = "93d0298991fc1ebfbbe3913638368bf1296e8120ae3c38b91a8f9faf38a82724655a459f13731b1d3e24c2ea0dfacecb700666b95c03062d770e980703df0bee"
+hash-format = "sha256"
+hash = "fada231beada9c5c8698cbefcb182a24823d5b152eed371a200d99fd1bfa318a"
 
 [update]
 [update.modrinth]

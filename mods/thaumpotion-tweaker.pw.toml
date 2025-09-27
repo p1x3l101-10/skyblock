@@ -3,8 +3,8 @@ filename = "ThaumPotion Tweaker-1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8578b2753ab633a65f030f6d2ceda52b30d2ea8d"
+hash-format = "sha256"
+hash = "245c8b552e3044f1f882bbf581381cbfadb050edde5ed267953fd7d1e86d640c"
 mode = "metadata:curseforge"
 
 [update]

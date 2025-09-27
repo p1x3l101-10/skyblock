@@ -3,8 +3,8 @@ filename = "pneumaticcraft-repressurized-1.12.2-0.11.15-398.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0ca4d035905d835b5af7ecebafa29863abd96f56"
+hash-format = "sha256"
+hash = "60f89392326325db7228dc96c3ef6285bcd475f7a067755488be2bf6acbdb78a"
 mode = "metadata:curseforge"
 
 [update]

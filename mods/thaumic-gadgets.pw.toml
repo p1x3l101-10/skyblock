@@ -3,8 +3,8 @@ filename = "Thaumic_Gadgets_1.12.2_0.1.6_tb.26.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ca900519310509288861256bc45d9e50aba7e431"
+hash-format = "sha256"
+hash = "c08e194e567846c9f952bba70c73ae225af8cffb5b685589ae950599fc6b918e"
 mode = "metadata:curseforge"
 
 [update]
