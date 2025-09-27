@@ -393,10 +393,6 @@ file = "config/forgeChunkLoading.cfg"
 hash = "45db4110ebc8c6b614d368981c24392e904fafa985350193cedf59c0809c5a53"
 
 [[files]]
-file = "config/groovyscript.cfg"
-hash = "dad45b74a021a4f2c92de14e12fabb7613182b109593d579fbbdbd6a4b51fe70"
-
-[[files]]
 file = "config/hammercore.cfg"
 hash = "f7e42c229c1301c6e1830b14de07a84175f582f749289102473eec307dee1200"
 
@@ -822,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/gputape.pw.toml"
 hash = "f55058dd5dcd268efa850366d723081dbf0187bf44de00e1dadb050f417552dc"
-metafile = true
-
-[[files]]
-file = "mods/groovyscript.pw.toml"
-hash = "97ea4af6d073d41cc4e1ee54fd99cf36a2a9631cb6db7c4b8588d18863719d26"
 metafile = true
 
 [[files]]
