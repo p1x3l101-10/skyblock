@@ -1280,8 +1280,8 @@ hash = "412f8ed45af00951d6f0a236098478a209c9f20a6f0c539f2d293b1c28b37dea"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unity.pw.toml"
-hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
+file = "resourcepacks/unity-plus.pw.toml"
+hash = "0ca71c65a59c152cd5266aa28aebf079391723c479d4d7a5d36b84b5182e0aee"
 metafile = true
 
 [[files]]

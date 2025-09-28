@@ -1,0 +1,7 @@
+name = "unity-plus"
+filename = "1.12_plus.zip"
+
+[download]
+url = "https://github.com/Unity-Resource-Pack/Unity/archive/refs/heads/1.12_plus.zip"
+hash-format = "sha256"
+hash = "643b2f1971b7a8cb9d261dd15ecf45da71d7d496be40146c81c45d7e84a12521"
