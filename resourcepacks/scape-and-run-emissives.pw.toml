@@ -1,0 +1,13 @@
+name = "Scape and Run: Emissives"
+filename = "SRP Emissives.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6eb1dde5cd8f5e9a09dc19b80cc397c61aeb232"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6734347
+project-id = 1003131

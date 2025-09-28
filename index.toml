@@ -1255,6 +1255,36 @@ hash = "c2ceb4be4554e0d39e19f5522418c8e8166dee47cd8f3dcca50a54e820cead1a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/maidcraft.pw.toml"
+hash = "2f0be35563d88da2b180b0c3287d1f7bba89aae0a29f2951ba82212f8215eeec"
+metafile = true
+
+[[files]]
+file = "resourcepacks/scape-and-run-emissives.pw.toml"
+hash = "1ba888ca3380475e9b8d15ed42d5ad4d87fe08422514eb6f5c85a76f1a714fd6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaum-pack.pw.toml"
+hash = "ba3724b4b76eb364acd96985b11b89f301560ac65a475605fc302ebf1b760001"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaumcraft-6-inlay-fix.pw.toml"
+hash = "966def24d186d6e92127587a2db4403c23050ca2b88289606c808cefc254a44b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/thaummenu.pw.toml"
+hash = "412f8ed45af00951d6f0a236098478a209c9f20a6f0c539f2d293b1c28b37dea"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
+metafile = true
+
+[[files]]
 file = "unsup.ini"
 hash = "6349b9368c4a703fa3f664bb5ef10ec7c2cbebe8e8e8f20fb574760d0c4a4139"
 

@@ -1,0 +1,13 @@
+name = "MaidCraft"
+filename = "MaidCraft.12.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f3f2fc77811a862aacca48d1e63ac28012b6cc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4104043
+project-id = 440463
