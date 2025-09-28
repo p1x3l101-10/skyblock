@@ -513,6 +513,30 @@ file = "config/oldresearch.cfg"
 hash = "a3a3e8c1e86274691800a9b3c56053d1a8adbd378d7a808b814587a373f044c2"
 
 [[files]]
+file = "config/opencomputers/default.recipes"
+hash = "83e92db8906351e470d13907bab0516febfdba6abf9de6f7abe3970cdc64302a"
+
+[[files]]
+file = "config/opencomputers/gregtech.recipes"
+hash = "2c791acd28f72d75de0747f6fa95c197cc3abd0938a1929933c3926974462995"
+
+[[files]]
+file = "config/opencomputers/hardmode.recipes"
+hash = "07e0e81eab77fbebefa84eb25078e672b6f847ba7a88cc5e205593975fa6886b"
+
+[[files]]
+file = "config/opencomputers/peaceful.recipes"
+hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
+
+[[files]]
+file = "config/opencomputers/settings.conf"
+hash = "be6c9daffa1c815354af6aa30db594eae2b993609b498d523fe55e93d12826f9"
+
+[[files]]
+file = "config/opencomputers/user.recipes"
+hash = "50ea2cc418070e18c4a7919a18266db536c7ccca24af328c6076915293d95d84"
+
+[[files]]
 file = "config/patchouli.cfg"
 hash = "bb3aeacdd93f01a07d3b1ad459399e5d3bb0c96eb3c5cf078fbb519a09d7c81f"
 
