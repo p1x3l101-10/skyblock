@@ -26,7 +26,7 @@ hash = "ec7c07b32b916677a7f23ca8478ecdc90913681c838a1b0e46d85adebe52ea30"
 
 [[files]]
 file = "config/OverLast/OverLast.cfg"
-hash = "aca5e703fd0b6a6da1a2a9cb77463b19095613014a262982691b9995ff151af3"
+hash = "d91973dbd7a350a4024ce3cc0dbd26beb608da440ede337eb842ffa4816c9804"
 
 [[files]]
 file = "config/TComplementModules.cfg"
