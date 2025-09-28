@@ -754,11 +754,6 @@ hash = "77e1d69c02ba56cb5e61f049194abfd5103ad07126f7c3e87febed3beca907f8"
 metafile = true
 
 [[files]]
-file = "mods/astral-sorcery-anti-anti-fake-player.pw.toml"
-hash = "3f180bec09525ac51fa398d6f0d6a46ddbc1585347c3b5620ab928c543b2845c"
-metafile = true
-
-[[files]]
 file = "mods/astral-sorcery.pw.toml"
 hash = "51d6e1e9facd2347214fcdfbbd5b4ff13752fcc91db80e5ce7e9c6f18e6cf8ef"
 metafile = true
