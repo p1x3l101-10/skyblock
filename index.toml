@@ -530,7 +530,7 @@ hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "be6c9daffa1c815354af6aa30db594eae2b993609b498d523fe55e93d12826f9"
+hash = "cad46a930a2d0d0563dc87e89170c746b2db95a30a625963dd6f99eeb999c7a4"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
