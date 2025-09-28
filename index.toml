@@ -161,6 +161,42 @@ file = "config/appleskin.cfg"
 hash = "3db18929798bc16d0af30df80c2e5753a9622c8232858806cbe500a8c5e25bea"
 
 [[files]]
+file = "config/astraladditions.cfg"
+hash = "69ac292f0229e33aac0a279ed686dee7d1f0d641a41cf111e909eb3e21cdeef3"
+
+[[files]]
+file = "config/astralsorcery.cfg"
+hash = "a70854883bff6ed36503da1c39e41c9cbb07eb65cdffb9d56421044ea9e27d77"
+
+[[files]]
+file = "config/astralsorcery/aevitas_ore_perk.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
+file = "config/astralsorcery/amulet_enchantments.cfg"
+hash = "9ed0abd161b7282bb30b289d4af097a3ee2ea45f7f989f9cb1e360c20263a063"
+
+[[files]]
+file = "config/astralsorcery/fluid_rarities.cfg"
+hash = "2de41537f1044aa54eaba159b595708d83a714b7c77dc2a11394f685f4943bde"
+
+[[files]]
+file = "config/astralsorcery/herdable_animals_blacklist.cfg"
+hash = "bbd5a8ed5e8f2450e0e6998f3db1c681b7fed9cb3e93a1e9b0f6137069752f90"
+
+[[files]]
+file = "config/astralsorcery/mineralis_ritual.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
+file = "config/astralsorcery/perk_void_trash_replacement.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
+file = "config/astralsorcery/treasure_shrine.cfg"
+hash = "7be4568d881c9932c7e49cc6e009ce5bcddf7a50ba194f0c7cc5381a1f5abb03"
+
+[[files]]
 file = "config/atlasextras.cfg"
 hash = "81f1e207b85a19b3d0a1be1e33999922bef6c2e1f2b274f8e54ddff07fda6066"
 
