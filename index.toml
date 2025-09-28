@@ -750,22 +750,22 @@ metafile = true
 
 [[files]]
 file = "mods/astral-additions.pw.toml"
-hash = "12bf6ec828cdfc3b5676782f0efb0071c4e0c4a0715c30fcf3b47bb26991dfb5"
+hash = "77e1d69c02ba56cb5e61f049194abfd5103ad07126f7c3e87febed3beca907f8"
 metafile = true
 
 [[files]]
 file = "mods/astral-sorcery-anti-anti-fake-player.pw.toml"
-hash = "6f6dbecb327508dd226c86b1a0b5723328f06eee6a6a883146ffc053a5a9a0a1"
+hash = "3f180bec09525ac51fa398d6f0d6a46ddbc1585347c3b5620ab928c543b2845c"
 metafile = true
 
 [[files]]
 file = "mods/astral-sorcery.pw.toml"
-hash = "82fbfe7ad86f3ef8a0085f86e1b23fb3ddd845fd55a2eb495a593306dd1a281f"
+hash = "51d6e1e9facd2347214fcdfbbd5b4ff13752fcc91db80e5ce7e9c6f18e6cf8ef"
 metafile = true
 
 [[files]]
 file = "mods/astrological-sorcery.pw.toml"
-hash = "ea5beb9ad6458e1a0d354e1ce351cab378172878638c96a7eed57babdb56e7f8"
+hash = "a145bf9f0b41ae23b9419b59cc5d4905d63660a1e21dc53fdd306e169ef9a6ce"
 metafile = true
 
 [[files]]
